@@ -1,0 +1,12 @@
+Estado: NO_CHANGE
+Fuente: Alta Gracia Viva
+Fecha: 2026-08-26T20:16:38-03:00
+Días: 8
+Asignaciones: 21
+Rango: 2026-08-24 → 2026-08-31
+Warnings: 0
+Confianza: HIGH
+Publicado: no
+Dataset anterior preservado: sí
+Exit code: 0
+Motivo: dataset normalizado idéntico; no se reescribe farmacias.json
