@@ -1,6 +1,6 @@
 Estado: NO_CHANGE
 Fuente: Alta Gracia Viva
-Fecha: 2026-08-27T12:11:33-03:00
+Fecha: 2026-08-28T11:03:05-03:00
 Días: 8
 Asignaciones: 21
 Rango: 2026-08-24 → 2026-08-31
