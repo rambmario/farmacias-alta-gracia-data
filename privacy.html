@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de privacidad — Farmacias de Turno Alta Gracia</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.55;
+      max-width: 42rem;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1rem; margin-top: 1.75rem; }
+    p, li { margin: 0.6rem 0; }
+    ul { padding-left: 1.25rem; }
+    footer { margin-top: 2.5rem; font-size: 0.9rem; opacity: 0.85; }
+  </style>
+</head>
+<body>
+  <h1>Política de privacidad</h1>
+  <p><strong>Farmacias de Turno Alta Gracia</strong> (paquete Android
+  <code>com.marioramb.farmaciasaltagracia</code>).</p>
+  <p>Última actualización: agosto de 2026.</p>
+
+  <h2>Resumen</h2>
+  <p>Esta aplicación consulta el cronograma público de farmacias de turno
+  en Alta Gracia. No requiere cuenta, no muestra publicidad y no utiliza
+  herramientas de analítica ni seguimiento.</p>
+
+  <h2>Datos que la app obtiene</h2>
+  <ul>
+    <li><strong>Cronograma de turnos.</strong> La app descarga un archivo JSON
+    público con horarios y datos de contacto de farmacias desde
+    <a href="https://rambmario.github.io/farmacias-alta-gracia-data/farmacias.json">farmacias.json</a>.
+    Ese archivo no contiene datos personales de usuarios.</li>
+    <li><strong>Ubicación (opcional).</strong> Solo si elegís «Ordenar por
+    cercanía». Se solicita un único punto de posición en primer plano para
+    ordenar la lista en el dispositivo. No se guarda en disco ni se envía a
+    un servidor de esta app.</li>
+    <li><strong>Caché local.</strong> Se guarda en el dispositivo la última
+    copia válida del JSON de turnos para uso sin conexión. No incluye tu
+    ubicación.</li>
+  </ul>
+
+  <h2>Datos que la app no recopila</h2>
+  <ul>
+    <li>No hay registro ni inicio de sesión.</li>
+    <li>No se piden nombre, correo, teléfono ni otros datos de contacto del
+    usuario.</li>
+    <li>No hay publicidad ni identificadores de seguimiento.</li>
+    <li>No hay analítica ni informes de fallos integrados en esta versión.</li>
+  </ul>
+
+  <h2>Internet</h2>
+  <p>La app usa conexión a Internet para descargar actualizaciones del
+  cronograma cuando hay red disponible. Si no hay conexión, utiliza la última
+  información válida en el dispositivo o la incluida con la instalación.</p>
+  <p>La solicitud HTTP identifica la app con el encabezado User-Agent
+  <code>FarmaciasDeTurnoAltaGracia/1.0 (Flutter; JSON farmacias; no HTML)</code>.</p>
+
+  <h2>Llamar y cómo llegar</h2>
+  <ul>
+    <li><strong>Llamar</strong> abre la aplicación de teléfono del sistema con
+    el número publicado de la farmacia (<code>tel:</code>). Esta app no realiza
+    la llamada por sí misma.</li>
+    <li><strong>Cómo llegar</strong> abre Google Maps o el navegador con la
+    dirección de la farmacia. No se usa un SDK de mapas embebido ni se envía
+    tu ubicación como origen.</li>
+  </ul>
+  <p>Lo que hagan esas aplicaciones externas después de abrirse queda fuera del
+  alcance de esta política.</p>
+
+  <h2>Fuente de los turnos</h2>
+  <p>Los datos publicados provienen de la página
+  <a href="https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/">Farmacias de turno en Alta Gracia</a>
+  (Alta Gracia Viva). La información puede cambiar; se recomienda confirmar
+  telefónicamente con la farmacia antes de trasladarse.</p>
+
+  <h2>Permisos en Android</h2>
+  <ul>
+    <li><code>INTERNET</code> — descargar el JSON de turnos.</li>
+    <li><code>ACCESS_FINE_LOCATION</code> y
+    <code>ACCESS_COARSE_LOCATION</code> — solo para ordenar por cercanía, en
+    primer plano.</li>
+  </ul>
+  <p>No se solicita ubicación en segundo plano ni permiso para realizar
+  llamadas (<code>CALL_PHONE</code>).</p>
+
+  <h2>Contacto</h2>
+  <p>Para consultas sobre esta política, utilizar el correo de contacto del
+  desarrollador indicado en la ficha de Google Play cuando la app esté
+  publicada.</p>
+
+  <footer>
+    <p>Publicar este archivo en la raíz del repositorio público de datos como
+    <code>privacy.html</code> para que esté disponible en
+    <code>https://rambmario.github.io/farmacias-alta-gracia-data/privacy.html</code>.</p>
+  </footer>
+</body>
+</html>
