@@ -1,10 +1,10 @@
 Estado: SUCCESS
 Fuente: Alta Gracia Viva
-Fecha: 2026-09-02T09:09:20-03:00
-Días: 30
-Asignaciones: 74
-Rango: 2026-08-31 → 2026-09-30
-Warnings: 2
+Fecha: 2026-09-03T07:14:19-03:00
+Días: 28
+Asignaciones: 70
+Rango: 2026-09-02 → 2026-09-30
+Warnings: 1
 Confianza: MEDIUM
 Publicado: sí
 Dataset anterior preservado: no

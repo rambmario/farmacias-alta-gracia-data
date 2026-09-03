@@ -3,19 +3,18 @@
   "exitCode": 0,
   "sourceName": "Alta Gracia Viva",
   "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/",
-  "fetchedAt": "2026-09-02T09:09:20-03:00",
-  "generatedAt": "2026-09-02T09:09:20-03:00",
-  "sourceHash": "ab0330cb362a3269b45fb6bdbb6129cec246f38062073dc079eea0f45854cc2f",
-  "firstDutyDate": "2026-08-31",
+  "fetchedAt": "2026-09-03T07:14:19-03:00",
+  "generatedAt": "2026-09-03T07:14:19-03:00",
+  "sourceHash": "c8d3f99fa0b5ebc1b5ba948de57443d5bbf3ebedc6cc6f574ca416fb98d709da",
+  "firstDutyDate": "2026-09-02",
   "lastDutyDate": "2026-09-30",
-  "daysFound": 30,
-  "dutyEntriesFound": 74,
+  "daysFound": 28,
+  "dutyEntriesFound": 70,
   "uniquePharmacies": 50,
   "missingDays": [
     "2026-09-23"
   ],
   "warnings": [
-    "mes_inicial_ajustado: LUNES 31 no existe en 2026-09; se interpretó como 2026-08 (cola del mes anterior al encabezado detectado)",
     "huecos: faltan fechas dentro del rango (2026-09-23)"
   ],
   "errors": [],
@@ -24,9 +23,9 @@
   "fetchAttempts": 1,
   "failureReason": null,
   "parseConfidence": "MEDIUM",
-  "recognizedDayHeadings": 30,
-  "recognizedPharmacies": 74,
-  "ignoredRatio": 0.0093,
-  "warningCount": 2,
+  "recognizedDayHeadings": 28,
+  "recognizedPharmacies": 70,
+  "ignoredRatio": 0.0098,
+  "warningCount": 1,
   "errorCount": 0
 }
