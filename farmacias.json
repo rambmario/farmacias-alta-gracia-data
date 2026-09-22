@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T09:08:43-03:00",
-  "fetchedAt": "2026-09-21T09:08:43-03:00",
+  "generatedAt": "2026-09-22T09:08:35-03:00",
+  "fetchedAt": "2026-09-22T09:08:35-03:00",
   "timezone": "America/Argentina/Cordoba",
   "dutyWindow": {
     "startLocal": "08:30",
@@ -13,90 +13,6 @@
     "url": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
   },
   "entries": [
-    {
-      "dutyDate": "2026-09-18",
-      "pharmacyId": "farmacia-avenida--av-hipolito-yrigoyen-936",
-      "pharmacyName": "Farmacia Avenida",
-      "address": "Av. Hipólito Yrigoyen 936",
-      "phoneOriginal": "430943",
-      "phoneNormalized": "430943",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-18",
-      "pharmacyId": "farmacia-el-algarrobo--pedro-butori-410",
-      "pharmacyName": "Farmacia El Algarrobo",
-      "address": "Pedro Butori 410",
-      "phoneOriginal": "423053",
-      "phoneNormalized": "423053",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-18",
-      "pharmacyId": "farmacia-gaston--s-j-bosco-410",
-      "pharmacyName": "Farmacia Gastón",
-      "address": "S.J. Bosco 410",
-      "phoneOriginal": "427011",
-      "phoneNormalized": "427011",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-19",
-      "pharmacyId": "farmacia-graneros--av-del-libertador-1487",
-      "pharmacyName": "Farmacia Graneros",
-      "address": "Av. del Libertador 1487",
-      "phoneOriginal": "426599",
-      "phoneNormalized": "426599",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-19",
-      "pharmacyId": "farmacia-vitalfarma--lucas-v-cordoba-956",
-      "pharmacyName": "Farmacia Vitalfarma",
-      "address": "Lucas V. Córdoba 956",
-      "phoneOriginal": "434081",
-      "phoneNormalized": "434081",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-20",
-      "pharmacyId": "farmacia-galetto--paraguay-155",
-      "pharmacyName": "Farmacia Galetto",
-      "address": "Paraguay 155",
-      "phoneOriginal": "405920",
-      "phoneNormalized": "405920",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-20",
-      "pharmacyId": "farmacia-lc-farma--av-hipolito-yrigoyen-1350",
-      "pharmacyName": "Farmacia LC Farma",
-      "address": "Av. Hipólito Yrigoyen 1350",
-      "phoneOriginal": "406758",
-      "phoneNormalized": "406758",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
     {
       "dutyDate": "2026-09-21",
       "pharmacyId": "farmacia-antonello-vilca-i--av-del-libertador-1104",
