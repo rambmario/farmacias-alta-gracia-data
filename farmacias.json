@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T09:08:35-03:00",
-  "fetchedAt": "2026-09-22T09:08:35-03:00",
+  "generatedAt": "2026-09-23T07:13:44-03:00",
+  "fetchedAt": "2026-09-23T07:13:44-03:00",
   "timezone": "America/Argentina/Cordoba",
   "dutyWindow": {
     "startLocal": "08:30",
@@ -13,30 +13,6 @@
     "url": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
   },
   "entries": [
-    {
-      "dutyDate": "2026-09-21",
-      "pharmacyId": "farmacia-antonello-vilca-i--av-del-libertador-1104",
-      "pharmacyName": "Farmacia Antonello Vilca I",
-      "address": "Av. del Libertador 1104",
-      "phoneOriginal": "407344",
-      "phoneNormalized": "407344",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-09-21",
-      "pharmacyId": "farmacia-casado--lucas-v-cordoba-493",
-      "pharmacyName": "Farmacia Casado",
-      "address": "Lucas V. Córdoba 493",
-      "phoneOriginal": "436842",
-      "phoneNormalized": "436842",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
     {
       "dutyDate": "2026-09-22",
       "pharmacyId": "farmacia-argentina--agustin-aguirre-979",
