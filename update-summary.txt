@@ -1,12 +1,11 @@
 Estado: SUCCESS
 Fuente: Alta Gracia Viva
-Fecha: 2026-10-27T09:09:08-03:00
-Días: 11
-Asignaciones: 27
-Rango: 2026-10-20 → 2026-10-31
-Warnings: 1
-Confianza: MEDIUM
+Fecha: 2026-10-28T07:10:04-03:00
+Días: 5
+Asignaciones: 12
+Rango: 2026-10-27 → 2026-10-31
+Warnings: 0
+Confianza: HIGH
 Publicado: sí
 Dataset anterior preservado: no
 Exit code: 0
-Huecos: 2026-10-25
