@@ -1,6 +1,6 @@
 Estado: SUCCESS
 Fuente: Alta Gracia Viva
-Fecha: 2026-10-29T09:07:17-03:00
+Fecha: 2026-10-30T07:09:56-03:00
 Días: 5
 Asignaciones: 12
 Rango: 2026-10-27 → 2026-10-31
