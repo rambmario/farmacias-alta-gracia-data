@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T09:06:15-03:00",
-  "fetchedAt": "2026-11-23T09:06:15-03:00",
+  "generatedAt": "2026-11-24T07:08:36-03:00",
+  "fetchedAt": "2026-11-24T07:08:36-03:00",
   "timezone": "America/Argentina/Cordoba",
   "dutyWindow": {
     "startLocal": "08:30",
@@ -13,90 +13,6 @@
     "url": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
   },
   "entries": [
-    {
-      "dutyDate": "2026-11-20",
-      "pharmacyId": "farmacia-antonello-vilca-i--av-del-libertador-1104",
-      "pharmacyName": "Farmacia Antonello Vilca I",
-      "address": "Av. del Libertador 1104",
-      "phoneOriginal": "407344",
-      "phoneNormalized": "407344",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-20",
-      "pharmacyId": "farmacia-casado--lucas-v-cordoba-493",
-      "pharmacyName": "Farmacia Casado",
-      "address": "Lucas V. Córdoba 493",
-      "phoneOriginal": "436842",
-      "phoneNormalized": "436842",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-21",
-      "pharmacyId": "farmacia-argentina--agustin-aguirre-979",
-      "pharmacyName": "Farmacia Argentina",
-      "address": "Agustín Aguirre 979",
-      "phoneOriginal": "420628",
-      "phoneNormalized": "420628",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-21",
-      "pharmacyId": "farmacia-perez-tapia--mansilla-288",
-      "pharmacyName": "Farmacia Pérez Tapia",
-      "address": "Mansilla 288",
-      "phoneOriginal": "351 2284379",
-      "phoneNormalized": "3512284379",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-21",
-      "pharmacyId": "farmacia-santos--manuel-solares-402",
-      "pharmacyName": "Farmacia Santos",
-      "address": "Manuel Solares 402 <",
-      "phoneOriginal": "425670",
-      "phoneNormalized": "425670",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-22",
-      "pharmacyId": "farmacia-bonciolini--av-del-libertador-1069",
-      "pharmacyName": "Farmacia Bonciolini",
-      "address": "Av. del Libertador 1069",
-      "phoneOriginal": "430824",
-      "phoneNormalized": "430824",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-22",
-      "pharmacyId": "red-salud-ii--paraguay-631",
-      "pharmacyName": "Red Salud II",
-      "address": "Paraguay 631",
-      "phoneOriginal": "427475",
-      "phoneNormalized": "427475",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
     {
       "dutyDate": "2026-11-23",
       "pharmacyId": "farmacia-olsina--av-belgrano-199",
