@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T09:06:09-03:00",
-  "fetchedAt": "2026-11-26T09:06:09-03:00",
+  "generatedAt": "2026-11-27T07:08:57-03:00",
+  "fetchedAt": "2026-11-27T07:08:57-03:00",
   "timezone": "America/Argentina/Cordoba",
   "dutyWindow": {
     "startLocal": "08:30",
@@ -13,102 +13,6 @@
     "url": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
   },
   "entries": [
-    {
-      "dutyDate": "2026-11-23",
-      "pharmacyId": "farmacia-olsina--av-belgrano-199",
-      "pharmacyName": "Farmacia Olsina",
-      "address": "Av. Belgrano 199",
-      "phoneOriginal": "407144",
-      "phoneNormalized": "407144",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-23",
-      "pharmacyId": "farmacia-san-marcos--av-del-libertador-546",
-      "pharmacyName": "Farmacia San Marcos",
-      "address": "Av. del Libertador 546",
-      "phoneOriginal": "429127",
-      "phoneNormalized": "429127",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-24",
-      "pharmacyId": "farmacia-america--liniers-158",
-      "pharmacyName": "Farmacia América",
-      "address": "Liniers 158",
-      "phoneOriginal": "421554",
-      "phoneNormalized": "421554",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-24",
-      "pharmacyId": "farmacia-del-crucero--celestina-aguero-99",
-      "pharmacyName": "Farmacia Del Crucero",
-      "address": "Celestina Agüero 99",
-      "phoneOriginal": "423024",
-      "phoneNormalized": "423024",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-24",
-      "pharmacyId": "farmacia-pussetto--lucas-v-cordoba-651",
-      "pharmacyName": "Farmacia Pussetto",
-      "address": "Lucas V. Córdoba 651",
-      "phoneOriginal": "422522",
-      "phoneNormalized": "422522",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-25",
-      "pharmacyId": "farmacia-nakasone--liniers-389",
-      "pharmacyName": "Farmacia Nakasone",
-      "address": "Liniers 389",
-      "phoneOriginal": "438784",
-      "phoneNormalized": "438784",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-25",
-      "pharmacyId": "farmacia-sastre--av-sarmiento-598",
-      "pharmacyName": "Farmacia Sastre",
-      "address": "Av. Sarmiento 598",
-      "phoneOriginal": "422354",
-      "phoneNormalized": "422354",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
-    {
-      "dutyDate": "2026-11-25",
-      "pharmacyId": "farmacia-h-italiano--dino-3-gabino-ezeiza-1080",
-      "pharmacyName": "Farmacia H.Italiano",
-      "address": "Dino 3 Gabino Ezeiza 1080",
-      "phoneOriginal": "3512114417",
-      "phoneNormalized": "3512114417",
-      "latitude": null,
-      "longitude": null,
-      "source": "Alta Gracia Viva",
-      "sourceUrl": "https://www.altagraciaviva.com.ar/farmacias-de-turno-en-alta-gracia/"
-    },
     {
       "dutyDate": "2026-11-26",
       "pharmacyId": "farmacia-medicarlo--paraguay-321-te",
